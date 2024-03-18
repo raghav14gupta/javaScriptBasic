@@ -1,0 +1,50 @@
+const obj1 = {
+    arr: [
+      {
+        id: 1,
+        name: "John",
+        age: 25,
+        class: "A",
+        city: "New York",
+      },
+      {
+        id: 2,
+        name: "Alice",
+        age: 30,
+        class: "B",
+        city: "Los Angeles",
+      },
+      {
+        id: 3,
+        name: "Bob",
+        age: 22,
+        class: "C",
+        city: "Chicago",
+      },
+    ],
+    arr2:[
+      {
+        id: 4,
+        name: "Emily",
+        age: 28,
+        class: "D",
+        city: "San Francisco",
+      },
+      {
+        id: 5,
+        name: "Michael",
+        age: 27,
+        class: "E",
+        city: "Miami",
+      },
+      {
+        id: 6,
+        name: "Sarah",
+        age: 29,
+        class: "F",
+        city: "Seattle",
+      },
+    ]
+  };
+  
+ 
